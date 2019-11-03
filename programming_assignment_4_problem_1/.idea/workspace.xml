@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c56cacb6-f5e8-41c3-83b2-2e20a8366eb0" name="Default Changelist" comment="" />
+    <list default="true" id="d434951e-e8c6-4a65-97a3-ecd9ba1ec560" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +11,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -18,11 +19,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SPDktMtSru59GPMYirhhOxMxQz" />
+  <component name="ProjectId" id="1Swd0Dkm1xQ0WyXi3C9PREL4uDE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,32 +49,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="SavingsAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SavingsAccount" />
-      <module name="programming_assignment_3_problem_2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SavingsAccount" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c56cacb6-f5e8-41c3-83b2-2e20a8366eb0" name="Default Changelist" comment="" />
-      <created>1571456483448</created>
+      <changelist id="d434951e-e8c6-4a65-97a3-ecd9ba1ec560" name="Default Changelist" comment="" />
+      <created>1572478366588</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571456483448</updated>
-      <workItem from="1571456498967" duration="2328000" />
-      <workItem from="1572478138089" duration="1312000" />
+      <updated>1572478366588</updated>
+      <workItem from="1572478371788" duration="7588000" />
+      <workItem from="1572742817896" duration="53000" />
     </task>
     <servers />
   </component>
@@ -73,7 +72,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
