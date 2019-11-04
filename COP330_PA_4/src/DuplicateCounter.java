@@ -42,11 +42,15 @@ import java.io.FileNotFoundException;
  class Application {
 
     public static void main(String[] args) throws IOException {
-        DuplicateCounter dc=new DuplicateCounter();
-        dc.count("problem2.txt");
-        dc.write("unique_word_counts.txt");
+        DuplicateCounter duplicateCount =new DuplicateCounter();
+        String path = "C:\\Users\\asti3\\IdeaProjects\\COP330_PA_4\\src\\problem2.txt";
+        // call method remove by passing parameter path
+        duplicateCount.count(path);
 
+        // call method write to write into outputFile "unique_words.txt
+        String outputFilepath = "C:\\Users\\asti3\\IdeaProjects\\COP330_PA_4\\src\\unique_word.txt";
+        duplicateCount.write(outputFilepath);
 
     }
 
-}
+ }

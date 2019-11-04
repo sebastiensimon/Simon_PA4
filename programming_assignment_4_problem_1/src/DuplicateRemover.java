@@ -1,4 +1,4 @@
-// DuplicateRemove class
+
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -19,7 +19,7 @@ class DuplicateRemover {
             File file = new File(dataFile);
             try (Scanner scanner = new Scanner(file)) {
 
-                scanner.useDelimiter("\\Z");
+                final Scanner scanner1 = scanner.useDelimiter("\\Z");
 
                 Set<String> stringSet = new LinkedHashSet<String>(Arrays.asList(scanner.next().split("\\s+")));
                 for (String s : uniqueWords = stringSet.toArray(new String[0])) {
@@ -66,12 +66,12 @@ class Application {
         DuplicateRemover duplicateRemove = new DuplicateRemover();
 
         // get the path of text file
-        String path = "C:\\Users\\asti3\\IdeaProjects\\programming_assignment_4_problem_1\\probelm1.txt";
+        String path = "C:\\Users\\asti3\\IdeaProjects\\programming_assignment_4_problem_1\\src\\problem1.txt";
         // call method remove by passing parameter path
         duplicateRemove.remove(path);
 
         // call method write to write into outputFile "unique_words.txt
-        String outputFilepath = "C:\\Users\\asti3\\IdeaProjects\\\\src\\unique_words.txt";
+        String outputFilepath = "C:\\Users\\asti3\\IdeaProjects\\programming_assignment_4_problem_1\\src\\unique_words.txt";
         duplicateRemove.write(outputFilepath);
 
     }

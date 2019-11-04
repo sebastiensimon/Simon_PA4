@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d434951e-e8c6-4a65-97a3-ecd9ba1ec560" name="Default Changelist" comment="" />
+    <list default="true" id="d434951e-e8c6-4a65-97a3-ecd9ba1ec560" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../COP330_PA_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../COP330_PA_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programming_assignment_4_problem_1/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programming_assignment_4_problem_1/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programming_assignment_4_problem_1/DuplicateRemover.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programming_assignment_4_problem_1/DuplicateRemover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DuplicateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DuplicateRemover.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +33,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../COP330_PA_4" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -49,6 +56,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="programming_assignment_4_problem_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -61,6 +82,9 @@
       <updated>1572478366588</updated>
       <workItem from="1572478371788" duration="7588000" />
       <workItem from="1572742817896" duration="53000" />
+      <workItem from="1572886279393" duration="469000" />
+      <workItem from="1572886788066" duration="43000" />
+      <workItem from="1572887070429" duration="2383000" />
     </task>
     <servers />
   </component>
