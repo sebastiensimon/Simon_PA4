@@ -1,0 +1,8 @@
+factory 1
+like 1
+cheesechake 1
+I 1
+This 1
+is 1
+good 1
+NO of words in the file :7

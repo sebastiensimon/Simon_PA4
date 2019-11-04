@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="85a0fc85-256b-45c7-8df5-cf7ef2562855" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COP330_PA_4/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COP330_PA_4/Application.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DuplicateCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DuplicateCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unique_word.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../programming_assignment_4_problem_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../programming_assignment_4_problem_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programming_assignment_4_problem_1/out/production/programming_assignment_4_problem_1/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../programming_assignment_4_problem_1/out/production/programming_assignment_4_problem_1/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programming_assignment_4_problem_1/out/production/programming_assignment_4_problem_1/DuplicateRemover.class" beforeDir="false" afterPath="$PROJECT_DIR$/../programming_assignment_4_problem_1/out/production/programming_assignment_4_problem_1/DuplicateRemover.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../programming_assignment_4_problem_1/src/DuplicateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/../programming_assignment_4_problem_1/src/DuplicateRemover.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/EGN/COP3330_PA4-master/Choudhury_p2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,6 +70,7 @@
       <workItem from="1572741384473" duration="1419000" />
       <workItem from="1572886836190" duration="231000" />
       <workItem from="1572889470739" duration="952000" />
+      <workItem from="1572902535570" duration="124000" />
     </task>
     <servers />
   </component>

@@ -48,7 +48,7 @@ import java.io.FileNotFoundException;
         duplicateCount.count(path);
 
         // call method write to write into outputFile "unique_words.txt
-        String outputFilepath = "C:\\Users\\asti3\\IdeaProjects\\COP330_PA_4\\src\\unique_word.txt";
+        String outputFilepath = "C:\\Users\\asti3\\IdeaProjects\\COP330_PA_4\\src\\unique_word_counts.txt";
         duplicateCount.write(outputFilepath);
 
     }
